@@ -9,7 +9,7 @@ public class GitTestApplication {
     public static void main(String[] args) {
         System.setProperty("spring.profiles.active", "hsql");
         SpringApplication.run(GitTestApplication.class, args);
-
+		// TUTUTUTUTUTU
         System.out.println("Prrrrrroooooosiaczka lovvvvve");
     }
 }
